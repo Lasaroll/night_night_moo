@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418115151276",
+    "project_id": "nightnightmoo",
+    "storage_bucket": "nightnightmoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418115151276:android:4a0f799e39c7f3c81cc609",
+        "android_client_info": {
+          "package_name": "com.example.night_night_moo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418115151276-pb7m261snde2tjrupn2ufmlc23l3kjjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFcvmUh_bTtwnbx7Q7wbe1eX10pZhr7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418115151276-pb7m261snde2tjrupn2ufmlc23l3kjjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
